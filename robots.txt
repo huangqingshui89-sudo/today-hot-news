@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://huangqingshui89-sudo.github.io/today-hot-news/sitemap.xml
